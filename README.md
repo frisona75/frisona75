@@ -1,5 +1,5 @@
 # Hi, I'm Anthony Frison
-[Email](mailto:frisona75@gmail.com) | [Github](https://github.com/frisona75)
+[Email](mailto:frisona75@gmail.com) | [Github](https://github.com/frisona75) | [Resume](Resume.pdf)
 
 I'm a Cyber Security student at NSCC. My goal is to learn and develop my skills in cyber security, and to apply my knowledge to real-world projects and make a positive impact.
 
