@@ -14,6 +14,7 @@ I'm a Cyber Security student at NSCC. My goal is to learn and develop my skills 
 - SQL
 - Linux Shell Scripting
 - PowerShell
+
 ### **Penetration Testing & Security Tools**
 - Nmap
 - Metasploit
@@ -41,6 +42,8 @@ I'm a Cyber Security student at NSCC. My goal is to learn and develop my skills 
 ---
 
 ## Projects
+- [Capture The Flag Walkthrough](https://github.com/frisona75/CaptureTheFlag-Walkthrough)
+- [Windows 11 Firewall Guide](https://github.com/frisona75/Windows11Firewall-Guide)
 
 ---
 
