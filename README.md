@@ -3,8 +3,6 @@
 
 I'm a Cyber Security student at NSCC. My goal is to learn and develop my skills in cyber security, and to apply my knowledge to real-world projects and make a positive impact.
 
----
-
 ## Technical Skills
 ### **Programming & Scripting**
 - C
@@ -29,8 +27,6 @@ I'm a Cyber Security student at NSCC. My goal is to learn and develop my skills 
 - Wireshark
 - Snort
 
----
-
 ## Soft Skills 
 - Problem solving
 - Critical thinking
@@ -39,13 +35,9 @@ I'm a Cyber Security student at NSCC. My goal is to learn and develop my skills 
 - Time management
 - Task prioritization
 
----
-
 ## Projects
 - [Capture The Flag Walkthrough](https://github.com/frisona75/CaptureTheFlag-Walkthrough)
 - [Windows 11 Firewall Guide](https://github.com/frisona75/Windows11Firewall-Guide)
-
----
 
 ## Awards
 - 4-year high school honour student
