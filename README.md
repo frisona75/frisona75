@@ -39,13 +39,16 @@ I'm a Cyber Security student at NSCC. My goal is to learn and develop my skills 
 
 ## 📂 Projects
 ### [Capture The Flag Walkthrough](https://github.com/frisona75/CaptureTheFlag-Walkthrough)
-🎯 **Penetration Testing** — Step-by-step documentation of CTF challenges using reconnaissance, exploitation, and privilege escalation.
+🎯 Step-by-step documentation of CTF challenges using reconnaissance, exploitation, and privilege escalation.
 
 ### [Windows 11 Firewall Guide](https://github.com/frisona75/Windows11Firewall-Guide)
-🛡️ **Defensive Security** — Comprehensive guide to Windows Defender Firewall configuration and security best practices.
+🛡️ Comprehensive guide to Windows Defender Firewall configuration and security best practices.
 
 ### [Router-on-a-Stick Multi-VLAN Network Using a Raspberry Pi Layer-3 Gateway](https://github.com/frisona75/RaspPi-Router-on-a-Stick)
-🌐 **Network Security** — Layer-3 gateway implementation demonstrating VLAN segmentation and routing concepts.
+🌐 Layer-3 gateway implementation demonstrating VLAN segmentation and routing concepts.
+
+### [Looz Web Server Vulnerability Report](https://github.com/frisona75/Looz-Technical-Report)
+🔐 Investigation of security flaws including a plaintext password exposed in HTML source code and a weak WordPress admin credential, with remediation steps and professional documentation.
 
 ## 🏆 Awards
 - 4-year high school honour student
