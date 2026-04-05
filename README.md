@@ -1,10 +1,12 @@
-# Hi, I'm Anthony Frison
-[Email](mailto:frisona75@gmail.com) | [Github](https://github.com/frisona75) | [Resume](Resume.pdf)
+# 👋 Hello, I'm Anthony Frison
+[![Email](https://img.shields.io/badge/Email-frisona75@gmail.com-red?style=flat&logo=gmail)](mailto:frisona75@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-frisona75-black?style=flat&logo=github)](https://github.com/frisona75)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat)](Resume.pdf)
 
 I'm a Cyber Security student at NSCC. My goal is to learn and develop my skills in cyber security, and to apply my knowledge to real-world projects and make a positive impact.
 
-## Technical Skills
-### **Programming & Scripting**
+## ⚙️ Technical Skills
+### 📝 **Programming & Scripting**
 - C
 - JavaScript
 - Python
@@ -13,7 +15,7 @@ I'm a Cyber Security student at NSCC. My goal is to learn and develop my skills 
 - Linux Shell Scripting
 - PowerShell
 
-### **Penetration Testing & Security Tools**
+### 🔍 **Penetration Testing & Security Tools**
 - Nmap
 - Metasploit
 - Burp Suite
@@ -27,7 +29,7 @@ I'm a Cyber Security student at NSCC. My goal is to learn and develop my skills 
 - Wireshark
 - Snort
 
-## Soft Skills 
+## 🧠 Soft Skills 
 - Problem solving
 - Critical thinking
 - Team collaboration
@@ -35,9 +37,15 @@ I'm a Cyber Security student at NSCC. My goal is to learn and develop my skills 
 - Time management
 - Task prioritization
 
-## Projects
-- [Capture The Flag Walkthrough](https://github.com/frisona75/CaptureTheFlag-Walkthrough)
-- [Windows 11 Firewall Guide](https://github.com/frisona75/Windows11Firewall-Guide)
-- [Router-on-a-Stick Multi-VLAN Network Using a Raspberry Pi Layer-3 Gateway](https://github.com/frisona75/RaspPi-Router-on-a-Stick)
-## Awards
+## 📂 Projects
+### [Capture The Flag Walkthrough](https://github.com/frisona75/CaptureTheFlag-Walkthrough)
+🎯 **Penetration Testing** — Step-by-step documentation of CTF challenges using reconnaissance, exploitation, and privilege escalation.
+
+### [Windows 11 Firewall Guide](https://github.com/frisona75/Windows11Firewall-Guide)
+🛡️ **Defensive Security** — Comprehensive guide to Windows Defender Firewall configuration and security best practices.
+
+### [Router-on-a-Stick Multi-VLAN Network Using a Raspberry Pi Layer-3 Gateway](https://github.com/frisona75/RaspPi-Router-on-a-Stick)
+🌐 **Network Security** — Layer-3 gateway implementation demonstrating VLAN segmentation and routing concepts.
+
+## 🏆 Awards
 - 4-year high school honour student
