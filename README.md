@@ -38,6 +38,6 @@ I'm a Cyber Security student at NSCC. My goal is to learn and develop my skills 
 ## Projects
 - [Capture The Flag Walkthrough](https://github.com/frisona75/CaptureTheFlag-Walkthrough)
 - [Windows 11 Firewall Guide](https://github.com/frisona75/Windows11Firewall-Guide)
-
+- [Router-on-a-Stick Multi-VLAN Network Using a Raspberry Pi Layer-3 Gateway](https://github.com/frisona75/RaspPi-Router-on-a-Stick)
 ## Awards
 - 4-year high school honour student
