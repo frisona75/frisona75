@@ -39,7 +39,10 @@ I'm a Cyber Security student at NSCC. My goal is to learn and develop my skills 
 
 ## 📂 Projects
 ### [Capture The Flag Walkthrough](https://github.com/frisona75/CaptureTheFlag-Walkthrough)
-🎯 Step-by-step documentation of CTF challenges using reconnaissance, exploitation, and privilege escalation.
+🎯 Step-by-step documentation of CTF challenge using reconnaissance, exploitation, and privilege escalation.
+
+### [Crocodile Capture The Flag From HackTheBox Walkthrough](https://github.com/frisona75/HackTheBox-Crocodile-CTF-Walkthrough)
+🐊 step-by-step documentation of the linux machine Crocodile. This walkthrough will demonstrate anonymous FTP exploitation, directory fuzzing with Gobuster, and admin panel access using discovered credentials
 
 ### [Windows 11 Firewall Guide](https://github.com/frisona75/Windows11Firewall-Guide)
 🛡️ Comprehensive guide to Windows Defender Firewall configuration and security best practices.
