@@ -17,14 +17,17 @@ I'm a Cyber Security student at NSCC. My goal is to learn and develop my skills 
 
 ### 🔍 **Penetration Testing & Security Tools**
 - Nmap
+- Netdiscover
 - Metasploit
 - Burp Suite
 - OpenVAS
 - CVE Analysis
 - Aircrack-ng
 - Hashcat
-- CrackStation.net
 - John the Ripper
+- Hydra
+- Medusa
+- Gobuster
 - DirBuster
 - Wireshark
 - Snort
